@@ -11,15 +11,21 @@ which are easy to find.  Interestingly 424400 chips don't work (at least the
 ones I tried) giving a black / blinking screen, so better to stick with what
 CBM specified on the schematics.
 
-If you scrounge and old single sided 4MB or dual sided 8MB 72-pin SIMM from a
-PC you will probably find some suitable DRAM.
+For the lazy, you can order gerbers from
+[DirtyPCBs](http://dirtypcbs.com/store/designer/details/dalek/6304/2mb-ram-expansion-for-the-amiga-a570-cd-rom-drive)
+or from your own board house (see the releases page), or remix how you like
+with KiCAD.
+
+If you scrounge old single sided 4MB or dual sided 8MB 72-pin PC SIMMs you will
+probably find some suitable DRAM.
 
 You will also need a 2x20pin female right angle header, and some decoupling
 caps.  The schematics say 0.33uF but I used 0.1uF with no issues and it even
 works if you leave the caps off.
 
 The jumper is the RAM enable jumper.  Connect it to a wired external switch if
-you really want to be able to disable the RAM without opening the cover again.
+you really feel you want to be able to disable the RAM without opening the
+cover again.
 
 ## Schematic
 ![schematic](/photos/schematic.png)
