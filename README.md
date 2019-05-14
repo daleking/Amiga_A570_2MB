@@ -12,7 +12,7 @@ ones I tried) giving a black / blinking screen, so better to stick with what
 CBM specified on the schematics.
 
 For the lazy, you can order gerbers from
-[DirtyPCBs](http://dirtypcbs.com/store/designer/details/dalek/6304/2mb-ram-expansion-for-the-amiga-a570-cd-rom-drive)
+[DirtyPCBs](http://dirtypcbs.com/store/designer/details/dalek/6305/2mb-ram-expansion-for-the-amiga-a570-cd-rom-drive)
 or from your own board house (see the releases page), or remix how you like
 with KiCAD.
 
